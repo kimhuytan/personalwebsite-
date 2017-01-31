@@ -1,0 +1,20 @@
+html {
+  background: url(http://www.desktop-image.com/wp-content/uploads/2014/06/free-sports-backgrounds1.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.picture {
+	width : 200px;
+}
+.sport {
+  text-decoration: : underline ;
+}
+body {
+	color: rgba(63, 178, 191, 0.81);
+
+}
+#Homepage {
+  text-decoration: underline bold ;
+}

@@ -1,0 +1,54 @@
+body {
+	background-color: rgba(63, 178, 191, 0.81);
+
+}
+
+h1{
+font-family : courier, courier-new, serif ;
+  font-size : 20pt;
+  color : blue;
+	text-decoration: underline;
+	text-decoration: bold ;
+  text-align : center;
+	border
+}
+#picture {
+	width : 200px;
+}
+
+#name {
+	font-size: 60pt;
+}
+
+#biography {
+	font-size: 40pt;
+}
+#Homepage {
+	font-size : 50pt;
+	font-weight: bold;
+}
+.links {
+	font-size : 25pt;
+}
+#first-paragraph {
+	font-size : 25pt;
+}
+#intro {
+	font-size : 30pt;
+	font-style : bold ;
+text-decoration: underline ;
+}
+html {
+  background: url(https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-40.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#me {
+	width : 300px;
+	float : right;
+margin : auto;
+border : 3px solid black ;
+padding 10px;
+}

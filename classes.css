@@ -1,0 +1,20 @@
+html {
+  background: url(https://ae01.alicdn.com/kf/HTB18yb5JVXXXXbjXXXXq6xXFXXXh/Photo-Backdrops-Children-Vinyl-Photo-Props-for-Studio-Photography-font-b-Background-b-font-font-b.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+	background-color: rgba(63, 178, 191, 0.81);
+}
+#Homepage {
+  font-size: 25px;
+  font-style : italic;
+  text-decoration: underline ;
+  color : white ;
+}
+.books {
+  width : 50px ;
+}

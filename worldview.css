@@ -1,0 +1,15 @@
+html {
+  background: url(https://docsandlin.files.wordpress.com/2015/10/worldview.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.size {
+  font-size : 30px;
+
+}
+.bigbang {
+  width : 500px;
+}
