@@ -1,0 +1,15 @@
+.form .form-control {
+  margin-bottom: 10px;
+}
+
+
+.input-sm {
+width : 96px;
+}
+#nema {
+  width : 200px;
+}
+#comment {
+  height : 100px;
+  width : 200px;
+}
