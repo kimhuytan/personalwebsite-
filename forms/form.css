@@ -1,5 +1,6 @@
 .container {
-  width : 400px;
+  width : 320px;
+  background-color:  #e6f2ff;
 }
 legend{
 	color:#141823;
@@ -33,7 +34,9 @@ legend{
   background-image: -webkit-linear-gradient(top, #79bc64, #5e7056);
   background-image: -moz-linear-gradient(top, #79bc64, #5e7056);
   background-image: -ms-linear-gradient(top, #79bc64, #5e7056);
-  background-image: -o-linear-gradient(top, #79bc64, #5e7056);
+  background-image<div id="birth" >
+<a class="mlm " id="birthday-help" href="#" ajaxify="/help/ajax/reg_birthday/" title="Click for more information" rel="async" role="button">Why do I need to provide my birthday?</a>
+</div>: -o-linear-gradient(top, #79bc64, #5e7056);
   background-image: linear-gradient(to bottom, #79bc64, #5e7056);
   text-decoration: none;
 }
@@ -61,10 +64,23 @@ legend{
 }
 .mlm {
     margin-left: 10px;
+
 }
  .input-sm {
 width : 80px;
 }
 .form-control{
-  border-radius : 5px; 
+  border-radius : 5px;
+}
+#birth {
+margin : left;
+  width : 200px;
+  font-size: 11px;
+  float : right;
+}
+#birthday-group{
+  width : 300px
+}
+.birthdate-item {
+display: inline;
 }
